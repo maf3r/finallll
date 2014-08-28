@@ -1,0 +1,75 @@
+/*
+ Basic */
+ /*
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+
+}*/
+
+/* Smartphones (landscape) ----------- 
+@media only screen
+and (min-width : 321px) {
+
+}*/
+
+/* Smartphones (portrait) ----------- 
+@media only screen
+and (max-width : 320px) {
+
+}
+
+*/
+	body {
+		color: #555555;
+		font-family:  sans-serif;
+		font-size: 13pt;
+		font-weight: 300;
+		line-height: 1.75em;
+		background: #222833;
+	}
+
+	a {
+		color: #98b4b0
+	}
+
+		a:hover {
+			text-decoration: none;
+		}
+
+	h1, h2, h3, h4, h5, h6 {
+		color: #ffffff;
+		font-weight: 700;
+		line-height: 1.75em;
+		margin-bottom: 1em;
+	}
+
+/*	 Banner */
+
+	#banner {
+		text-align: center;
+		padding: 1em 0 0 0;
+	}
+		
+		
+/*********************************content*************************************/
+#content {width:1024px; margin:0 auto; padding-bottom:49px; border-bottom:#303030 1px solid;}
+.pad-1 {padding-left:40px; padding-right:40px;}		
+
+.page4-row1 {overflow:hidden; padding-top:26px; }
+.col-10 {float:left; width:300px;  margin-right:60px; }
+.col-11 {float:left; width:580px;}
+
+.page5-row1 {overflow:hidden; padding-top:26px; }
+.col-12 {float:left; width:600px;  margin-right:79px; }
+.col-13 {float:left; width: 300px;}
+
+.page6-row1 {overflow:hidden; padding-top:26px; }
+.col-14 {float:left; width:270px;  margin-right:50px; }
+.col-15 {float:left; width:273px; margin-right:89px; }
+.col-16 {float:left; width:260px; }
+
+.extra-wrap {overflow:hidden;}
+.bot-2 {margin-bottom:17px;}
+
+.link-1-pad {float:right; margin-top:9px;}
